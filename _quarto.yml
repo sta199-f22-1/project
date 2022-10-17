@@ -16,3 +16,7 @@ website:
         href: writeup.qmd
       - text: "About"
         href: about.qmd
+
+format:
+  html:
+    theme: default
