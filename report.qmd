@@ -1,6 +1,6 @@
 ---
 title: "Project title"
-subtitle: "Writeup"
+subtitle: "Report"
 format: html
 editor: visual
 ---
