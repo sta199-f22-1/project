@@ -1,6 +1,6 @@
 ---
 name: Peer review
-about: Peer review of project proposal
+about: Peer review of project drafts
 title: Peer review
 labels: ''
 assignees: ''
@@ -43,3 +43,5 @@ assignees: ''
 
 
 - (Optional) Any further comments or feedback?
+
+
