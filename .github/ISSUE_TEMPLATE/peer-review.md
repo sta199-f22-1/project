@@ -1,6 +1,6 @@
 ---
 name: Peer review
-about: Peer review of project drafts
+about: Peer review of project draft
 title: Peer review
 labels: ''
 assignees: ''
