@@ -8,7 +8,7 @@ assignees: ''
 
 - Peer review by: [NAME OF TEAM DOING THE REVIEW]
 
-- Names of team members that participated in this review: [FULL NAMES OF TEAM MEMBERS DOING THE REVIEW]
+- Names of team members that participated in this review: [FULL NAMES OF TEAM MEMBERS PARTICIPATING IN THE REVIEW DURING THE LAB SESSION]
 
 - Describe the goal of the project.
 
